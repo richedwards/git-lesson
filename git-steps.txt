@@ -1,0 +1,14 @@
+Git steps
+
+Forked a repository that created our own copy of the code.
+Created a directory for our project to live locally.
+Cloned repository by pressing button on Github.
+In Terminal, we typed git clone and pasted clone URL.
+Change into directory we created.
+Open our text editor.
+Make changes / corrections.
+Run git diff in Terminal to see differences.
+Add file to the staging area (using git add [filename]).
+Then we commit our changed files using git commit -m (with an added message of explanation).
+The final step is to push it up using git push origin master.
+Send pull request to let others know changes were made.
